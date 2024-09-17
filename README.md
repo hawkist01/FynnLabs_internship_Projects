@@ -52,7 +52,9 @@ HARISH_K_CaseStudy.pdf: Case study analysis that includes a detailed explanation
 Setup
 To run the notebook on your local machine, follow the steps below:
 Clone the repository:
-git clone https://github.com/hawkist01/customer-segmentation.git
+git clone https://github.com/hawkist01/FynnLabs_internship_Projects/customer-segmentation.git
+
+
 jupyter notebook costomer_segmentation.ipynb
 
 
